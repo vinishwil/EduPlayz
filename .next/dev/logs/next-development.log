@@ -1,0 +1,1054 @@
+[00:00:00.933] Server  LOG     ✓ Ready in 731ms
+[00:03:55.218] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:58.578] Browser LOG     📢 Available voices: 0
+[00:03:58.578] Browser LOG     📢 Available voices: 0
+[00:03:59.173] Browser LOG     📢 Available voices: 199
+[00:03:59.423] Browser LOG     🔊 Attempting to speak: Apple
+[00:03:59.423] Browser LOG     🔓 First interaction - initializing Chrome audio context
+[00:03:59.423] Browser WARN    Image with src "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHBsZXxlbnwwfHx8fDE3Njc0Nzk1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:59.628] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:03:59.628] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Apple","voice":"Albert","volume":1}
+[00:03:59.628] Browser LOG     🗣️ SPEAKING NOW: Apple
+[00:03:59.628] Browser LOG     ✅ Speech STARTED: Apple
+[00:03:59.628] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:03:59.738] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:00.433] Browser LOG     ✅ Speech ENDED: Apple
+[00:04:02.361] Browser LOG     🔊 Attempting to speak: Apple
+[00:04:02.612] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:02.612] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Apple","voice":"Albert","volume":1}
+[00:04:02.612] Browser LOG     🗣️ SPEAKING NOW: Apple
+[00:04:02.612] Browser LOG     ✅ Speech STARTED: Apple
+[00:04:02.612] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:02.717] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:03.098] Browser LOG     ✅ Speech ENDED: Apple
+[00:04:05.756] Browser LOG     🔊 Attempting to speak: Lion
+[00:04:05.756] Browser WARN    Image with src "https://images.unsplash.com/photo-1546182990-dffeafbe841d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsaW9ufGVufDB8fHx8MTc2NzQ4NjE4M3ww&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:05.976] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:05.976] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Lion","voice":"Albert","volume":1}
+[00:04:05.976] Browser LOG     🗣️ SPEAKING NOW: Lion
+[00:04:05.976] Browser LOG     ✅ Speech STARTED: Lion
+[00:04:05.976] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:06.078] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:06.639] Browser LOG     ✅ Speech ENDED: Lion
+[00:04:09.262] Browser LOG     🔊 Attempting to speak: Octopus
+[00:04:09.454] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:09.454] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Octopus","voice":"Albert","volume":1}
+[00:04:09.454] Browser LOG     🗣️ SPEAKING NOW: Octopus
+[00:04:09.454] Browser LOG     ✅ Speech STARTED: Octopus
+[00:04:09.454] Browser WARN    Image with src "https://images.unsplash.com/photo-1543007168-5fa9b3c5f5fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvY3RvcHVzfGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:09.454] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:09.555] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:10.490] Browser LOG     ✅ Speech ENDED: Octopus
+[00:04:13.145] Browser LOG     🔊 Attempting to speak: Yarn
+[00:04:13.145] Browser WARN    Image with src "https://images.unsplash.com/photo-1533382433768-3d403240fa40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eWFybnxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:13.145] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:13.145] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Yarn","voice":"Albert","volume":1}
+[00:04:13.145] Browser LOG     🗣️ SPEAKING NOW: Yarn
+[00:04:13.145] Browser LOG     ✅ Speech STARTED: Yarn
+[00:04:13.145] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:13.247] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:13.669] Browser LOG     ✅ Speech ENDED: Yarn
+[00:04:16.313] Browser LOG     🔊 Attempting to speak: Penguin
+[00:04:16.567] Browser WARN    Image with src "https://images.unsplash.com/photo-1551986782-d0169b3f8fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZW5ndWlufGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:16.567] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:16.567] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Penguin","voice":"Albert","volume":1}
+[00:04:16.567] Browser LOG     🗣️ SPEAKING NOW: Penguin
+[00:04:16.567] Browser LOG     ✅ Speech STARTED: Penguin
+[00:04:16.567] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:16.672] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:17.092] Browser LOG     ✅ Speech ENDED: Penguin
+[00:04:20.057] Browser LOG     🔊 Attempting to speak: Robot
+[00:04:20.057] Browser WARN    Image with src "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyb2JvdHxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:20.284] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:20.284] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Robot","voice":"Albert","volume":1}
+[00:04:20.284] Browser LOG     🗣️ SPEAKING NOW: Robot
+[00:04:20.284] Browser LOG     ✅ Speech STARTED: Robot
+[00:04:20.284] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:20.388] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:21.081] Browser LOG     ✅ Speech ENDED: Robot
+[00:04:27.155] Browser LOG     🔊 Attempting to speak: Apple
+[00:04:27.408] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:27.408] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Apple","voice":"Albert","volume":1}
+[00:04:27.408] Browser LOG     🗣️ SPEAKING NOW: Apple
+[00:04:27.408] Browser LOG     ✅ Speech STARTED: Apple
+[00:04:27.408] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:27.513] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:28.080] Browser LOG     ✅ Speech ENDED: Apple
+[00:04:31.941] Browser LOG     🔊 Attempting to speak: Turtle
+[00:04:32.195] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:32.195] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Turtle","voice":"Albert","volume":1}
+[00:04:32.195] Browser LOG     🗣️ SPEAKING NOW: Turtle
+[00:04:32.195] Browser LOG     ✅ Speech STARTED: Turtle
+[00:04:32.195] Browser WARN    Image with src "https://images.unsplash.com/photo-1581242163695-19d0acfd486f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0dXJ0bGV8ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:32.195] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:32.300] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:32.900] Browser LOG     ✅ Speech ENDED: Turtle
+[00:04:34.612] Browser LOG     🔊 Attempting to speak: Turtle
+[00:04:34.866] Browser LOG     🎤 Using voice: Albert {"default":false,"lang":"en-US","localService":true}
+[00:04:34.866] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Turtle","voice":"Albert","volume":1}
+[00:04:34.866] Browser LOG     🗣️ SPEAKING NOW: Turtle
+[00:04:34.866] Browser LOG     ✅ Speech STARTED: Turtle
+[00:04:34.866] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:04:34.968] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:04:35.301] Browser LOG     ✅ Speech ENDED: Turtle
+[00:06:18.043] Server  ERROR   Failed to save progress to localStorage ReferenceError: window is not defined
+[00:06:18.415] Browser LOG     📢 Available voices: 70
+[00:06:19.905] Server  ERROR   Failed to save progress to localStorage ReferenceError: window is not defined
+[00:06:20.138] Browser LOG     📢 Available voices: 70
+[00:06:21.891] Browser LOG     🔊 Attempting to speak: Apple
+[00:06:21.891] Browser LOG     🔓 First interaction - initializing Chrome audio context
+[00:06:21.891] Browser WARN    Image with src "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHBsZXxlbnwwfHx8fDE3Njc0Nzk1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:22.099] Browser LOG     🎤 Using voice: Samantha {"default":true,"lang":"en-US","localService":true}
+[00:06:22.099] Browser LOG     🔧 Utterance settings: {"lang":"en-US","pitch":1,"rate":0.8999999761581421,"text":"Apple","voice":"Samantha","volume":1}
+[00:06:22.099] Browser LOG     🗣️ SPEAKING NOW: Apple
+[00:06:22.099] Browser LOG     ✅ Speech STARTED: Apple
+[00:06:22.099] Browser LOG     📊 Status check: {"paused":false,"pending":false,"speaking":true}
+[00:06:22.207] Browser LOG     ✅ Confirmed: Speech is still active after 200ms
+[00:06:22.979] Browser LOG     ✅ Speech ENDED: Apple
+[00:07:05.136] Server  LOG     ✓ Compiled in 40ms
+[00:07:13.814] Server  LOG     ✓ Compiled in 5ms
+[00:08:02.025] Server  LOG     ✓ Compiled in 35ms
+[00:13:03.968] Browser WARN    Image with src "https://images.unsplash.com/photo-1758124968201-09737108d001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:33.133] Browser WARN    Image with src "https://images.unsplash.com/photo-1759950616453-4f4a161c0c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:42.842] Server  ERROR   Failed to save progress to localStorage ReferenceError: window is not defined
+[00:17:43.989] Browser WARN    Image with src "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHBsZXxlbnwwfHx8fDE3Njc0Nzk1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:47.108] Browser WARN    Image with src "https://images.unsplash.com/photo-1711048421235-3fcb9dcf82f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx4eWxvcGhvbmV8ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:56.282] Server  LOG     ✓ Compiled in 448ms
+[00:17:57.851] Server  LOG     ✓ Compiled in 36ms
+[00:18:07.076] Server  LOG     ✓ Compiled in 41ms
+[00:18:09.055] Server  LOG     ✓ Compiled in 40ms
+[00:18:18.691] Server  LOG     ✓ Compiled in 56ms
+[00:18:20.677] Server  LOG     ✓ Compiled in 32ms
+[00:18:35.407] Server  LOG     ✓ Compiled in 36ms
+[00:18:37.410] Server  LOG     ✓ Compiled in 31ms
+[00:18:47.552] Server  LOG     ✓ Compiled in 34ms
+[00:18:49.548] Server  LOG     ✓ Compiled in 35ms
+[00:21:22.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:13.312] Server  LOG     ✓ Compiled in 35ms
+[00:24:15.332] Server  LOG     ✓ Compiled in 34ms
+[00:25:43.828] Server  LOG     ✓ Compiled in 21ms
+[00:25:50.464] Server  LOG     ✓ Compiled in 8ms
+[00:25:57.329] Server  LOG     ✓ Compiled in 6ms
+[00:26:07.054] Server  LOG     ✓ Compiled in 6ms
+[00:26:13.264] Server  LOG     ✓ Compiled in 5ms
+[02:40:22.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:08.734] Server  LOG     ✓ Compiled in 16ms
+[02:44:16.549] Server  LOG     ✓ Compiled in 8ms
+[02:44:25.173] Server  LOG     ✓ Compiled in 6ms
+[02:44:32.806] Server  LOG     ✓ Compiled in 9ms
+[02:58:04.031] Browser LOG     🔊 speak() called: Try again. isProcessing: true
+[02:58:04.031] Browser LOG     ⏸️ Speech in progress, queueing: Try again.
+[02:58:06.875] Browser LOG     🔊 speak() called: Great job! isProcessing: true
+[02:58:06.875] Browser LOG     ⏸️ Speech in progress, queueing: Great job!
+[02:58:10.379] Browser LOG     🔊 speak() called: Find the letter U isProcessing: true
+[02:58:10.379] Browser LOG     ⏸️ Speech in progress, queueing: Find the letter U
+[02:58:38.580] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:38.580] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:38.731] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:38.982] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:38.982] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:39.134] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:39.385] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:39.385] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:39.536] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:39.787] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:39.787] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:39.939] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:40.189] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:40.189] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:40.340] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:40.592] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:40.592] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:40.742] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:40.993] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:40.993] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:41.148] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:41.396] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:41.396] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:41.547] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:41.798] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:41.798] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:41.949] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:42.200] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:42.200] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:42.351] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:42.601] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:42.601] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:42.754] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:43.005] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:43.005] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:43.156] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:43.407] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:43.407] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:43.558] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:43.809] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:43.809] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:43.961] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:44.212] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:44.212] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:44.364] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:44.615] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:44.615] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:44.766] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:45.018] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:45.018] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:45.170] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:45.422] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:45.422] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:45.572] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:45.824] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:45.824] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:45.975] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:46.226] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:46.227] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:46.378] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:46.630] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:46.630] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:46.782] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:47.033] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:47.033] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:47.184] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:47.437] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:47.437] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:47.589] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:47.841] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:47.841] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:47.991] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:48.243] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:48.243] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:48.394] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:48.646] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:48.646] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:48.798] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:49.049] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:49.049] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:49.201] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:49.453] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:49.453] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:49.604] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:49.855] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:49.855] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:50.006] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:50.258] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:50.258] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:50.408] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:50.660] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:50.660] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:50.812] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:51.064] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:51.064] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:51.215] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:51.466] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:51.466] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:51.616] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:51.867] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:51.867] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:52.018] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:52.269] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:52.269] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:52.422] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:52.673] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:52.673] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:52.825] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:53.056] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[02:58:53.056] Browser LOG     ▶️ Starting speech: Find the letter O
+[02:58:53.874] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:53.874] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:54.030] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:54.278] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:54.278] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:54.429] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:54.681] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:54.681] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:54.833] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:55.086] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:55.086] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:55.238] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:55.489] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:55.489] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:55.641] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:55.891] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:55.891] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:56.043] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:56.296] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:56.296] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:56.448] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:56.701] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:56.701] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:56.852] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:57.106] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:57.106] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:57.257] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:57.510] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:57.510] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:57.662] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:57.915] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:57.915] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:58.066] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:58.319] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:58.319] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:58.470] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:58.723] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:58.723] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:58.874] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:59.128] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:59.128] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:59.279] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:59.532] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:59.532] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:58:59.683] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:58:59.936] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:58:59.936] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:00.088] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:00.339] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:00.339] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:01.228] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:02.310] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:02.310] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:03.153] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:04.184] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:04.184] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:06.211] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:06.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:59:07.611] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:07.611] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:07.761] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:08.015] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:08.015] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:08.167] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:08.421] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:08.421] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:08.572] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:08.825] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:08.825] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:08.977] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:09.151] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:09.152] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:09.231] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:09.231] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:09.383] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:09.635] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:09.635] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:09.733] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:09.787] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:10.041] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:10.041] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:10.193] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:10.446] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:10.446] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:10.598] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:10.851] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:10.851] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:11.004] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:11.256] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:11.256] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:11.408] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:11.662] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:11.662] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:11.814] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:12.066] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:12.066] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:12.218] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:12.471] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:12.471] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:12.623] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:12.874] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:12.874] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:13.026] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:13.278] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:13.279] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:13.432] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:13.684] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:13.684] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:13.836] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:14.088] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:14.088] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:14.240] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:14.492] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:14.492] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:14.646] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:14.897] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:14.898] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:15.049] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:15.301] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:15.302] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:15.453] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:15.705] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:15.705] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:15.856] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:16.108] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:16.108] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:16.261] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:16.513] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:16.513] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:16.664] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:16.918] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:16.918] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:17.071] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:17.323] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:17.323] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:17.475] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:17.727] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:17.727] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:17.879] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:18.099] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:18.099] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:18.131] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:18.131] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:18.284] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:18.536] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:18.536] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:18.687] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:18.939] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:18.939] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:19.090] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:19.342] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:19.342] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:19.494] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:19.746] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:19.746] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:19.898] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:20.149] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:20.149] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:20.300] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:20.553] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:20.553] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:20.704] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:20.956] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:20.956] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:21.107] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:21.359] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:21.359] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:21.513] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:21.765] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:21.765] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:21.917] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:22.167] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:22.167] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:22.319] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:22.570] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:22.570] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:22.619] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:22.723] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:22.975] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:22.975] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:23.127] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:23.379] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:23.380] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:23.532] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:23.784] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:23.784] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:23.936] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:24.189] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:24.189] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:24.340] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:24.602] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:24.602] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:24.745] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:24.997] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:24.997] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:25.149] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:25.400] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:25.400] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:25.552] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:25.804] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:25.804] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:25.874] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:25.874] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:25.957] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:25.973] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:26.209] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:26.209] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:26.227] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:26.227] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:26.361] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:26.378] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:26.613] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:26.613] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:26.631] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:26.631] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:26.764] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:26.782] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:27.017] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:27.017] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:27.036] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:27.036] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:27.169] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:27.188] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:27.421] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:27.422] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:27.573] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:27.825] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:27.825] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:27.977] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:28.228] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:28.228] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:28.230] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:28.230] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:28.383] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:28.635] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:28.635] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:28.788] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:29.041] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:29.041] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:29.192] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:29.294] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:29.444] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:29.444] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:29.595] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:29.848] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:29.848] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:30.353] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:30.353] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:31.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:32.055] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:32.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:32.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:33.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:34.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:34.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:35.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:35.992] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:35.992] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:36.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:36.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:36.887] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:37.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:38.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:38.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:39.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:40.447] Server  LOG     ✓ Compiled in 10ms
+[02:59:40.635] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[02:59:40.635] Browser LOG     ▶️ Starting speech: Find the letter U
+[02:59:40.635] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[02:59:41.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:41.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:41.721] Browser LOG     📢 Voices loaded: 199 ["Rishi","Albert","Alice","Alva","Amélie","Amira","Anna","Bad News","Bahh","Bells","Boing","Bubbles","Carmit","Cellos","Damayanti","Daniel","Daria","Eddy (English (United Kingdom))","Eddy (English (United States))","Eddy (Chinese (China mainland))","Eddy (Chinese (Taiwan))","Eddy (German (Germany))","Eddy (Spanish (Spain))","Eddy (Spanish (Mexico))","Eddy (Finnish (Finland))","Eddy (French (Canada))","Eddy (French (France))","Eddy (Italian (Italy))","Eddy (Japanese (Japan))","Eddy (Korean (South Korea))","Eddy (Portuguese (Brazil))","Ellen","Flo (English (United Kingdom))","Flo (English (United States))","Flo (Chinese (China mainland))","Flo (Chinese (Taiwan))","Flo (German (Germany))","Flo (Spanish (Spain))","Flo (Spanish (Mexico))","Flo (Finnish (Finland))","Flo (French (Canada))","Flo (French (France))","Flo (Italian (Italy))","Flo (Japanese (Japan))","Flo (Korean (South Korea))","Flo (Portuguese (Brazil))","Fred","Geeta","Good News","Grandma (English (United Kingdom))","Grandma (English (United States))","Grandma (Chinese (China mainland))","Grandma (Chinese (Taiwan))","Grandma (German (Germany))","Grandma (Spanish (Spain))","Grandma (Spanish (Mexico))","Grandma (Finnish (Finland))","Grandma (French (Canada))","Grandma (French (France))","Grandma (Italian (Italy))","Grandma (Japanese (Japan))","Grandma (Korean (South Korea))","Grandma (Portuguese (Brazil))","Grandpa (English (United Kingdom))","Grandpa (English (United States))","Grandpa (Chinese (China mainland))","Grandpa (Chinese (Taiwan))","Grandpa (German (Germany))","Grandpa (Spanish (Spain))","Grandpa (Spanish (Mexico))","Grandpa (Finnish (Finland))","Grandpa (French (Canada))","Grandpa (French (France))","Grandpa (Italian (Italy))","Grandpa (Japanese (Japan))","Grandpa (Korean (South Korea))","Grandpa (Portuguese (Brazil))","Ioana","Jacques","Jester","Joana","Junior","Kanya","Karen","Kathy","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Meijia","Melina","Milena","Moira","Montse","Mónica","Nora","... 98 items not stringified"]
+[02:59:41.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:42.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:42.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:43.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:44.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:44.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:45.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:46.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:46.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:47.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:48.722] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:48.722] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:49.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:50.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:50.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:51.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:52.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:52.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:53.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:54.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:54.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:55.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:56.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:56.722] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:57.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:58.530] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[02:59:58.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[02:59:58.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[02:59:59.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:00.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:00.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:01.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:02.265] Server  LOG     ✓ Compiled in 5ms
+[03:00:02.429] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:00:02.429] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:00:02.429] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:00:03.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:03.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:03.720] Browser LOG     📢 Voices loaded: 199 ["Rishi","Albert","Alice","Alva","Amélie","Amira","Anna","Bad News","Bahh","Bells","Boing","Bubbles","Carmit","Cellos","Damayanti","Daniel","Daria","Eddy (English (United Kingdom))","Eddy (English (United States))","Eddy (Chinese (China mainland))","Eddy (Chinese (Taiwan))","Eddy (German (Germany))","Eddy (Spanish (Spain))","Eddy (Spanish (Mexico))","Eddy (Finnish (Finland))","Eddy (French (Canada))","Eddy (French (France))","Eddy (Italian (Italy))","Eddy (Japanese (Japan))","Eddy (Korean (South Korea))","Eddy (Portuguese (Brazil))","Ellen","Flo (English (United Kingdom))","Flo (English (United States))","Flo (Chinese (China mainland))","Flo (Chinese (Taiwan))","Flo (German (Germany))","Flo (Spanish (Spain))","Flo (Spanish (Mexico))","Flo (Finnish (Finland))","Flo (French (Canada))","Flo (French (France))","Flo (Italian (Italy))","Flo (Japanese (Japan))","Flo (Korean (South Korea))","Flo (Portuguese (Brazil))","Fred","Geeta","Good News","Grandma (English (United Kingdom))","Grandma (English (United States))","Grandma (Chinese (China mainland))","Grandma (Chinese (Taiwan))","Grandma (German (Germany))","Grandma (Spanish (Spain))","Grandma (Spanish (Mexico))","Grandma (Finnish (Finland))","Grandma (French (Canada))","Grandma (French (France))","Grandma (Italian (Italy))","Grandma (Japanese (Japan))","Grandma (Korean (South Korea))","Grandma (Portuguese (Brazil))","Grandpa (English (United Kingdom))","Grandpa (English (United States))","Grandpa (Chinese (China mainland))","Grandpa (Chinese (Taiwan))","Grandpa (German (Germany))","Grandpa (Spanish (Spain))","Grandpa (Spanish (Mexico))","Grandpa (Finnish (Finland))","Grandpa (French (Canada))","Grandpa (French (France))","Grandpa (Italian (Italy))","Grandpa (Japanese (Japan))","Grandpa (Korean (South Korea))","Grandpa (Portuguese (Brazil))","Ioana","Jacques","Jester","Joana","Junior","Kanya","Karen","Kathy","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Meijia","Melina","Milena","Moira","Montse","Mónica","Nora","... 98 items not stringified"]
+[03:00:03.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:04.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:04.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:05.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:06.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:06.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:07.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:08.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:08.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:09.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:10.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:10.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:11.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:12.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:12.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:13.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:14.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:14.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:15.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:16.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:16.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:17.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:18.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:18.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:19.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:21.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:22.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:22.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:23.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:24.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:24.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:25.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:26.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:26.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:26.725] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:27.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:00:28.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:00:28.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:00:29.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:01:00.765] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:01:00.765] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:01:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:01:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:01:51.234] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:02:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:02:51.187] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:02:51.187] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:03:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:03:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:03:51.186] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:18.372] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:18.372] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:18.473] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:18.727] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:18.727] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:18.880] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:19.133] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:19.133] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:19.285] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:19.536] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:19.536] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:19.688] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:19.939] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:19.939] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:20.091] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:20.342] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:20.342] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:20.494] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:20.745] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:20.746] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:20.898] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:21.151] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:21.151] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:21.302] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:21.555] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:21.555] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:21.707] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:21.959] Browser LOG     🔊 speak() called: Find the letter U isProcessing: false
+[03:04:21.959] Browser LOG     ▶️ Starting speech: Find the letter U
+[03:04:22.109] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:04:22.361] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:04:22.865] Browser LOG     🔊 speak() called: Find the letter A isProcessing: false
+[03:04:22.865] Browser LOG     ▶️ Starting speech: Find the letter A
+[03:04:23.031] Browser WARN    ⚠️ No voices available, trying to load voices...
+[03:04:23.031] Browser LOG     Fresh voices: 70
+[03:04:23.031] Browser LOG     🎤 Selected voice: Samantha
+[03:04:23.031] Browser LOG     ✅ Speech started: Find the letter A
+[03:04:24.319] Browser LOG     ✅ Speech ended: Find the letter A
+[03:04:27.948] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:27.948] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:28.102] Browser LOG     🎤 Selected voice: Samantha
+[03:04:28.102] Browser LOG     ✅ Speech started: Great job!
+[03:04:28.894] Browser LOG     ✅ Speech ended: Great job!
+[03:04:31.452] Browser LOG     🔊 speak() called: Find the letter Z isProcessing: false
+[03:04:31.452] Browser LOG     ▶️ Starting speech: Find the letter Z
+[03:04:31.609] Browser LOG     🎤 Selected voice: Samantha
+[03:04:31.609] Browser LOG     ✅ Speech started: Find the letter Z
+[03:04:32.938] Browser LOG     ✅ Speech ended: Find the letter Z
+[03:04:33.621] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:33.621] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:33.775] Browser LOG     🎤 Selected voice: Samantha
+[03:04:33.775] Browser LOG     ✅ Speech started: Great job!
+[03:04:34.559] Browser LOG     ✅ Speech ended: Great job!
+[03:04:37.123] Browser LOG     🔊 speak() called: Find the letter N isProcessing: false
+[03:04:37.123] Browser LOG     ▶️ Starting speech: Find the letter N
+[03:04:37.276] Browser LOG     🎤 Selected voice: Samantha
+[03:04:37.276] Browser LOG     ✅ Speech started: Find the letter N
+[03:04:38.547] Browser LOG     ✅ Speech ended: Find the letter N
+[03:04:38.991] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:38.991] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:39.145] Browser LOG     🎤 Selected voice: Samantha
+[03:04:39.145] Browser LOG     ✅ Speech started: Great job!
+[03:04:39.924] Browser LOG     ✅ Speech ended: Great job!
+[03:04:42.493] Browser LOG     🔊 speak() called: Find the letter V isProcessing: false
+[03:04:42.493] Browser LOG     ▶️ Starting speech: Find the letter V
+[03:04:42.646] Browser LOG     🎤 Selected voice: Samantha
+[03:04:42.646] Browser LOG     ✅ Speech started: Find the letter V
+[03:04:43.026] Browser LOG     🔊 speak() called: Try again. isProcessing: true
+[03:04:43.026] Browser LOG     ⏸️ Speech in progress, queueing: Try again.
+[03:04:43.871] Browser LOG     ✅ Speech ended: Find the letter V
+[03:04:43.871] Browser LOG     📋 Processing queue, items: 1
+[03:04:43.973] Browser LOG     🔊 speak() called: Try again. isProcessing: false
+[03:04:43.973] Browser LOG     ▶️ Starting speech: Try again.
+[03:04:44.129] Browser LOG     🎤 Selected voice: Samantha
+[03:04:44.129] Browser LOG     ✅ Speech started: Try again.
+[03:04:44.989] Browser LOG     ✅ Speech ended: Try again.
+[03:04:46.294] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:46.294] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:46.451] Browser LOG     🎤 Selected voice: Samantha
+[03:04:46.451] Browser LOG     ✅ Speech started: Great job!
+[03:04:47.230] Browser LOG     ✅ Speech ended: Great job!
+[03:04:49.796] Browser LOG     🔊 speak() called: Find the letter J isProcessing: false
+[03:04:49.796] Browser LOG     ▶️ Starting speech: Find the letter J
+[03:04:49.948] Browser LOG     🎤 Selected voice: Samantha
+[03:04:49.948] Browser LOG     ✅ Speech started: Find the letter J
+[03:04:51.273] Browser LOG     ✅ Speech ended: Find the letter J
+[03:04:51.680] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:51.680] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:51.836] Browser LOG     🎤 Selected voice: Samantha
+[03:04:51.836] Browser LOG     ✅ Speech started: Great job!
+[03:04:52.616] Browser LOG     ✅ Speech ended: Great job!
+[03:04:55.181] Browser LOG     🔊 speak() called: Find the letter E isProcessing: false
+[03:04:55.181] Browser LOG     ▶️ Starting speech: Find the letter E
+[03:04:55.335] Browser LOG     🎤 Selected voice: Samantha
+[03:04:55.335] Browser LOG     ✅ Speech started: Find the letter E
+[03:04:56.436] Browser LOG     🔊 speak() called: Great job! isProcessing: true
+[03:04:56.436] Browser LOG     ⏸️ Speech in progress, queueing: Great job!
+[03:04:56.542] Browser LOG     ✅ Speech ended: Find the letter E
+[03:04:56.542] Browser LOG     📋 Processing queue, items: 1
+[03:04:56.643] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:04:56.643] Browser LOG     ▶️ Starting speech: Great job!
+[03:04:56.797] Browser LOG     🎤 Selected voice: Samantha
+[03:04:56.797] Browser LOG     ✅ Speech started: Great job!
+[03:04:57.588] Browser LOG     ✅ Speech ended: Great job!
+[03:04:59.938] Browser LOG     🔊 speak() called: Find the letter O isProcessing: false
+[03:04:59.938] Browser LOG     ▶️ Starting speech: Find the letter O
+[03:05:00.093] Browser LOG     🎤 Selected voice: Samantha
+[03:05:00.093] Browser LOG     ✅ Speech started: Find the letter O
+[03:05:01.332] Browser LOG     ✅ Speech ended: Find the letter O
+[03:05:01.759] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:05:01.760] Browser LOG     ▶️ Starting speech: Great job!
+[03:05:01.912] Browser LOG     🎤 Selected voice: Samantha
+[03:05:01.912] Browser LOG     ✅ Speech started: Great job!
+[03:05:02.696] Browser LOG     ✅ Speech ended: Great job!
+[03:05:05.263] Browser LOG     🔊 speak() called: Find the letter B isProcessing: false
+[03:05:05.263] Browser LOG     ▶️ Starting speech: Find the letter B
+[03:05:05.416] Browser LOG     🎤 Selected voice: Samantha
+[03:05:05.416] Browser LOG     ✅ Speech started: Find the letter B
+[03:05:06.676] Browser LOG     ✅ Speech ended: Find the letter B
+[03:05:06.828] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:05:06.828] Browser LOG     ▶️ Starting speech: Great job!
+[03:05:06.986] Browser LOG     🎤 Selected voice: Samantha
+[03:05:06.986] Browser LOG     ✅ Speech started: Great job!
+[03:05:07.817] Browser LOG     ✅ Speech ended: Great job!
+[03:05:10.330] Browser LOG     🔊 speak() called: Find the letter W isProcessing: false
+[03:05:10.330] Browser LOG     ▶️ Starting speech: Find the letter W
+[03:05:10.482] Browser LOG     🎤 Selected voice: Samantha
+[03:05:10.482] Browser LOG     ✅ Speech started: Find the letter W
+[03:05:11.923] Browser LOG     ✅ Speech ended: Find the letter W
+[03:05:12.426] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:05:12.426] Browser LOG     ▶️ Starting speech: Great job!
+[03:05:12.580] Browser LOG     🎤 Selected voice: Samantha
+[03:05:12.581] Browser LOG     ✅ Speech started: Great job!
+[03:05:13.351] Browser LOG     ✅ Speech ended: Great job!
+[03:05:15.928] Browser LOG     🔊 speak() called: Find the letter G isProcessing: false
+[03:05:15.928] Browser LOG     ▶️ Starting speech: Find the letter G
+[03:05:16.082] Browser LOG     🎤 Selected voice: Samantha
+[03:05:16.082] Browser LOG     ✅ Speech started: Find the letter G
+[03:05:17.344] Browser LOG     ✅ Speech ended: Find the letter G
+[03:05:17.614] Browser LOG     🔊 speak() called: Great job! isProcessing: false
+[03:05:17.614] Browser LOG     ▶️ Starting speech: Great job!
+[03:05:17.769] Browser LOG     🎤 Selected voice: Samantha
+[03:05:17.769] Browser LOG     ✅ Speech started: Great job!
+[03:05:18.590] Browser LOG     ✅ Speech ended: Great job!
+[03:05:20.615] Browser LOG     🔊 speak() called: Congratulations! You completed all questions! isProcessing: false
+[03:05:20.615] Browser LOG     ▶️ Starting speech: Congratulations! You completed all questions!
+[03:05:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:05:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:05:20.773] Browser LOG     🎤 Selected voice: Samantha
+[03:05:20.773] Browser LOG     ✅ Speech started: Congratulations! You completed all questions!
+[03:05:24.083] Browser LOG     ✅ Speech ended: Congratulations! You completed all questions!
+[03:05:25.221] Browser LOG     🔊 speak() called: Find the letter A isProcessing: false
+[03:05:25.221] Browser LOG     ▶️ Starting speech: Find the letter A
+[03:05:25.377] Browser LOG     🎤 Selected voice: Samantha
+[03:05:25.377] Browser LOG     ✅ Speech started: Find the letter A
+[03:05:26.632] Browser LOG     ✅ Speech ended: Find the letter A
+[03:05:29.661] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:05:29.661] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:05:30.164] Browser LOG     🔊 speak() called: How many items do you see? isProcessing: false
+[03:05:30.164] Browser LOG     ▶️ Starting speech: How many items do you see?
+[03:05:30.164] Browser LOG     🔊 speak() called: How many items do you see? isProcessing: true
+[03:05:30.164] Browser LOG     ⏸️ Speech in progress, queueing: How many items do you see?
+[03:05:30.321] Browser WARN    ⚠️ No voices available, trying to load voices...
+[03:05:30.321] Browser LOG     Fresh voices: 70
+[03:05:30.321] Browser LOG     🎤 Selected voice: Samantha
+[03:05:30.321] Browser LOG     ✅ Speech started: How many items do you see?
+[03:05:32.212] Browser LOG     ✅ Speech ended: How many items do you see?
+[03:05:32.212] Browser LOG     📋 Processing queue, items: 1
+[03:05:32.314] Browser LOG     🔊 speak() called: How many items do you see? isProcessing: false
+[03:05:32.314] Browser LOG     ▶️ Starting speech: How many items do you see?
+[03:05:32.471] Browser WARN    ⚠️ No voices available, trying to load voices...
+[03:05:32.471] Browser LOG     Fresh voices: 70
+[03:05:32.471] Browser LOG     🎤 Selected voice: Samantha
+[03:05:32.471] Browser LOG     ✅ Speech started: How many items do you see?
+[03:05:34.355] Browser LOG     ✅ Speech ended: How many items do you see?
+[03:05:40.312] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:05:40.312] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:05:40.814] Browser LOG     🔊 speak() called: What comes after 1? isProcessing: false
+[03:05:40.814] Browser LOG     ▶️ Starting speech: What comes after 1?
+[03:05:40.814] Browser LOG     🔊 speak() called: What comes after 8? isProcessing: true
+[03:05:40.814] Browser LOG     ⏸️ Speech in progress, queueing: What comes after 8?
+[03:05:40.971] Browser WARN    ⚠️ No voices available, trying to load voices...
+[03:05:40.971] Browser LOG     Fresh voices: 70
+[03:05:40.971] Browser LOG     🎤 Selected voice: Samantha
+[03:05:40.971] Browser LOG     ✅ Speech started: What comes after 1?
+[03:05:42.431] Browser LOG     ✅ Speech ended: What comes after 1?
+[03:05:42.431] Browser LOG     📋 Processing queue, items: 1
+[03:05:42.532] Browser LOG     🔊 speak() called: What comes after 8? isProcessing: false
+[03:05:42.532] Browser LOG     ▶️ Starting speech: What comes after 8?
+[03:05:42.690] Browser WARN    ⚠️ No voices available, trying to load voices...
+[03:05:42.690] Browser LOG     Fresh voices: 70
+[03:05:42.690] Browser LOG     🎤 Selected voice: Samantha
+[03:05:42.690] Browser LOG     ✅ Speech started: What comes after 8?
+[03:05:44.115] Browser LOG     ✅ Speech ended: What comes after 8?
+[03:06:13.180] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1558661091-53609801899e?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3" 404
+[03:06:15.226] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1583307260579-5360980189c0?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3" 404
+[03:06:16.150] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1558273891-453982444585?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3" 404
+[03:06:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:06:29.757] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:06:29.757] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:06:30.771] Browser LOG     🔊 speak() called: Apple isProcessing: false
+[03:06:30.771] Browser LOG     ▶️ Starting speech: Apple
+[03:06:30.771] Browser WARN    Image with src "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHBsZXxlbnwwfHx8fDE3Njc0Nzk1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:06:30.893] Browser LOG     🎤 Selected voice: Samantha
+[03:06:30.893] Browser LOG     ✅ Speech started: Apple
+[03:06:31.468] Browser LOG     ✅ Speech ended: Apple
+[03:06:38.494] Browser LOG     🔊 speak() called: Ball isProcessing: false
+[03:06:38.494] Browser LOG     ▶️ Starting speech: Ball
+[03:06:38.494] Browser WARN    Image with src "https://images.unsplash.com/photo-1628779238951-be2c9f2a59f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiYWxsfGVufDB8fHx8MTc2NzUwODUwMnww&ixlib=rb-4.1.0&q=80&w=1080" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:06:38.618] Browser LOG     🎤 Selected voice: Samantha
+[03:06:38.618] Browser LOG     ✅ Speech started: Ball
+[03:06:39.068] Browser LOG     ✅ Speech ended: Ball
+[03:07:00.512] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:07:00.512] Browser LOG     📢 Voices loaded: 70 ["Rishi","Rishi","Samantha","Daniel","Karen","Moira","Samantha","Tessa","Albert","Bad News","Bahh","Bells","Boing","Bubbles","Cellos","Wobble","Fred","Good News","Jester","Junior","Kathy","Organ","Superstar","Ralph","Trinoids","Whisper","Zarvox","Alice","Alva","Amélie","Amira","Anna","Carmit","Damayanti","Daria","Ellen","Ioana","Joana","Kanya","Kyoko","Lana","Laura","Lekha","Lesya","Linh","Luciana","Majed","Tünde","Meijia","Melina","Milena","Mónica","Montse","Nora","Paulina","Sara","Satu","Sinji","Thomas","Tina","Tingting","Xander","Yelda","Yuna","Zosia","Zuzana","Vani","Soumya","Geeta","Piya"]
+[03:07:08.406] Browser LOG     🔊 speak() called: J isProcessing: false
+[03:07:08.406] Browser LOG     ▶️ Starting speech: J
+[03:07:08.560] Browser LOG     🎤 Selected voice: Samantha
+[03:07:08.560] Browser LOG     ✅ Speech started: J
+[03:07:09.575] Browser LOG     ✅ Speech ended: J
+[03:07:19.692] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[03:07:19.692] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[03:07:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:07:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:07:20.755] Server  ERROR   ⨯ "upstream image response failed for" "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-2.png" 404
+[03:07:20.758] Server  ERROR   ⨯ "upstream image response failed for" "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-1.png" 404
+[03:07:23.321] Server  ERROR   ⨯ "upstream image response failed for" "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-3.png" 404
+[03:08:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:09:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:09:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:10:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:11:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:11:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:12:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:13:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:13:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:14:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:15:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:15:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:16:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:17:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:17:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:18:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:19:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:19:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:20:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:21:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:21:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:22:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:23:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:23:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:24:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:25:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:25:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:26:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:27:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:27:20.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:28:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:29:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:29:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:30:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:31:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:31:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:32:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:33:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:33:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:34:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:35:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:35:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:36:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:37:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:37:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:38:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:39:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:39:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:40:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:41:20.722] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:41:20.722] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:42:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:43:20.719] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:43:20.719] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:44:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:45:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:45:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:46:20.723] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:47:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:47:20.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:48:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:49:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:49:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:50:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:51:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:51:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:52:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:53:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:53:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:54:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:55:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:55:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:56:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:57:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:57:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[03:58:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[03:59:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[03:59:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:00:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:01:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:01:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:02:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:03:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:03:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:04:20.720] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:05:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:05:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:06:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:07:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:07:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:08:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:09:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:09:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:10:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:11:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:11:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:12:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:13:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:13:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:14:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:15:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:15:20.722] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:16:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:17:20.721] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:17:20.721] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:18:20.721] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:19:20.720] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:19:20.720] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:15.645] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:15.749] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:15.749] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:15.900] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:16.152] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:16.152] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:16.303] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:16.556] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:16.556] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:16.708] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:16.959] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:16.959] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:17.110] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:17.361] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:17.361] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:17.513] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:17.766] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:17.766] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:17.917] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:18.169] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:18.169] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:18.321] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:18.573] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:18.573] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:18.725] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:18.977] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:18.977] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:19.130] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:19.382] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:19.383] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:19.535] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:19.786] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:19.786] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:19.938] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:20.190] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:20.190] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:20.342] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:20.595] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:20.595] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:20.746] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:20.999] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:20.999] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:21.150] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:21.402] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:21.402] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:21.552] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:21.805] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:21.805] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:21.957] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:22.209] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:22.209] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:22.360] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:22.612] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:22.612] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:22.764] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:23.016] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:23.016] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:23.168] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:23.419] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:23.419] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:23.571] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:23.822] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:23.822] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:23.974] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:24.226] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:24.226] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:24.378] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:24.630] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:24.630] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:24.782] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:25.033] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:25.033] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:25.185] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:25.437] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:25.437] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:25.589] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:25.841] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:25.841] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:25.991] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:26.244] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:26.244] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:26.396] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:26.648] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:26.648] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:26.799] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:27.051] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:27.051] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:27.203] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:27.455] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:27.455] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:27.608] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:27.859] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:27.859] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:28.011] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:28.263] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:28.263] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:28.414] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:28.667] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:28.667] Browser LOG     ▶️ Starting speech: Find the letter Y
+[04:20:28.819] Browser WARN    ⚠️ Voices not loaded, retrying in 250ms
+[04:20:29.071] Browser LOG     🔊 speak() called: Find the letter Y isProcessing: false
+[04:20:29.071] Browser LOG     ▶️ Starting speech: Find the letter Y

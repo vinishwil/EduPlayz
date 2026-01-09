@@ -1,0 +1,622 @@
+{
+  "placeholderImages": [
+    {
+      "id": "alphabet-a",
+      "description": "An apple",
+      "imageUrl": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHBsZXxlbnwwfHx8fDE3Njc0Nzk1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apple"
+    },
+    {
+      "id": "alphabet-b",
+      "description": "A ball",
+      "imageUrl": "https://images.unsplash.com/photo-1628779238951-be2c9f2a59f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiYWxsfGVufDB8fHx8MTc2NzUwODUwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ball"
+    },
+    {
+      "id": "alphabet-c",
+      "description": "A cat",
+      "imageUrl": "https://images.unsplash.com/photo-1561948955-570b270e7c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYXR8ZW58MHx8fHwxNzY3NTI5NjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cat"
+    },
+    {
+      "id": "alphabet-d",
+      "description": "A dog",
+      "imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkb2d8ZW58MHx8fHwxNzY3NTI5NjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog"
+    },
+    {
+      "id": "alphabet-e",
+      "description": "An elephant",
+      "imageUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbGVwaGFudHxlbnwwfHx8fDE3Njc0ODYxODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephant"
+    },
+    {
+      "id": "alphabet-f",
+      "description": "A fish",
+      "imageUrl": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaXNofGVufDB8fHx8MTc2NzUyNTcwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fish"
+    },
+    {
+      "id": "alphabet-g",
+      "description": "A guitar",
+      "imageUrl": "https://images.unsplash.com/photo-1541689592655-f5f52825a3b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxndWl0YXJ8ZW58MHx8fHwxNzY3NDUxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "guitar"
+    },
+    {
+      "id": "alphabet-h",
+      "description": "A hat",
+      "imageUrl": "https://images.unsplash.com/photo-1622445275576-721325763afe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYXR8ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hat"
+    },
+    {
+      "id": "alphabet-i",
+      "description": "An igloo",
+      "imageUrl": "https://images.unsplash.com/photo-1548279308-0a6768ea38e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpZ2xvb3xlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "igloo"
+    },
+    {
+      "id": "alphabet-j",
+      "description": "A jellyfish",
+      "imageUrl": "https://images.unsplash.com/photo-1531654550949-2d08e7e41fda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxqZWxseWZpc2h8ZW58MHx8fHwxNzY3NTI5NjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jellyfish"
+    },
+    {
+      "id": "alphabet-k",
+      "description": "A kite",
+      "imageUrl": "https://images.unsplash.com/photo-1602446678303-a25ec60b066a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxraXRlfGVufDB8fHx8MTc2NzQ1NTU3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kite"
+    },
+    {
+      "id": "alphabet-l",
+      "description": "A lion",
+      "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsaW9ufGVufDB8fHx8MTc2NzQ4NjE4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion"
+    },
+    {
+      "id": "alphabet-m",
+      "description": "A mouse",
+      "imageUrl": "https://images.unsplash.com/photo-1606118858477-9a8f9dfb257a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb3VzZXxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mouse"
+    },
+    {
+      "id": "alphabet-n",
+      "description": "A nest",
+      "imageUrl": "https://images.unsplash.com/photo-1504980927740-d1cc11dccf63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXN0fGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nest"
+    },
+    {
+      "id": "alphabet-o",
+      "description": "An octopus",
+      "imageUrl": "https://images.unsplash.com/photo-1543007168-5fa9b3c5f5fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvY3RvcHVzfGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "octopus"
+    },
+    {
+      "id": "alphabet-p",
+      "description": "A penguin",
+      "imageUrl": "https://images.unsplash.com/photo-1551986782-d0169b3f8fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZW5ndWlufGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "penguin"
+    },
+    {
+      "id": "alphabet-q",
+      "description": "A queen",
+      "imageUrl": "https://images.unsplash.com/photo-1690430167031-0ff6ff7dcab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxxdWVlbnxlbnwwfHx8fDE3Njc1Mjk2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "queen"
+    },
+    {
+      "id": "alphabet-r",
+      "description": "A robot",
+      "imageUrl": "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyb2JvdHxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot"
+    },
+    {
+      "id": "alphabet-s",
+      "description": "A sun",
+      "imageUrl": "https://images.unsplash.com/photo-1512508497406-d4c5505afbca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdW58ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sun"
+    },
+    {
+      "id": "alphabet-t",
+      "description": "A turtle",
+      "imageUrl": "https://images.unsplash.com/photo-1581242163695-19d0acfd486f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0dXJ0bGV8ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "turtle"
+    },
+    {
+      "id": "alphabet-u",
+      "description": "An umbrella",
+      "imageUrl": "https://images.unsplash.com/photo-1630930195151-3b8434d19cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dW1icmVsbGF8ZW58MHx8fHwxNzY3NDUzODU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "umbrella"
+    },
+    {
+      "id": "alphabet-v",
+      "description": "A volcano",
+      "imageUrl": "https://images.unsplash.com/photo-1581888517319-570283943d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2b2xjYW5vfGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "volcano"
+    },
+    {
+      "id": "alphabet-w",
+      "description": "A whale",
+      "imageUrl": "https://images.unsplash.com/photo-1617925109341-2b99305cdee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aGFsZXxlbnwwfHx8fDE3Njc1Mjk2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whale"
+    },
+    {
+      "id": "alphabet-x",
+      "description": "A xylophone",
+      "imageUrl": "https://images.unsplash.com/photo-1711048421235-3fcb9dcf82f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx4eWxvcGhvbmV8ZW58MHx8fHwxNzY3NTI5NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "xylophone"
+    },
+    {
+      "id": "alphabet-y",
+      "description": "A yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1533382433768-3d403240fa40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eWFybnxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yarn"
+    },
+    {
+      "id": "alphabet-z",
+      "description": "A zebra",
+      "imageUrl": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx6ZWJyYXxlbnwwfHx8fDE3Njc1Mjk2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zebra"
+    },
+    {
+      "id": "char-fox",
+      "description": "A cartoon fox",
+      "imageUrl": "https://images.unsplash.com/photo-1737785136736-a890c3850944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FydG9vbiUyMGZveHxlbnwwfHx8fDE3Njc1Mjk2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon fox"
+    },
+    {
+      "id": "char-owl",
+      "description": "A cartoon owl",
+      "imageUrl": "https://images.unsplash.com/photo-1678470376084-60c864b23e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYXJ0b29uJTIwb3dsfGVufDB8fHx8MTc2NzUyOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon owl"
+    },
+    {
+      "id": "char-bear",
+      "description": "A cartoon bear",
+      "imageUrl": "https://images.unsplash.com/photo-1649750555596-e90e79106943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwYmVhcnxlbnwwfHx8fDE3Njc1Mjk2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon bear"
+    },
+    {
+      "id": "counting-1",
+      "imageUrl": "https://images.unsplash.com/photo-1759950616453-4f4a161c0c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "1 cartoon monster",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-2",
+      "imageUrl": "https://images.unsplash.com/photo-1766872811641-31b9cb7d152f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "2 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-3",
+      "imageUrl": "https://images.unsplash.com/photo-1758124968201-09737108d001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "3 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-4",
+      "imageUrl": "https://images.unsplash.com/photo-1759950616453-4f4a161c0c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "4 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-5",
+      "imageUrl": "https://images.unsplash.com/photo-1758942078591-cb507723ef25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FydG9vbiUyMG1vbnN0ZXJ8ZW58MHx8fHwxNzY3NTMwMDY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "5 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-6",
+      "imageUrl": "https://images.unsplash.com/photo-1758942078591-cb507723ef25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FydG9vbiUyMG1vbnN0ZXJ8ZW58MHx8fHwxNzY3NTMwMDY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "6 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-7",
+      "imageUrl": "https://images.unsplash.com/photo-1701025812558-ca9ca4e24d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "7 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-8",
+      "imageUrl": "https://images.unsplash.com/photo-1758124993030-3465a0187f84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "8 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-9",
+      "imageUrl": "https://images.unsplash.com/photo-1758124968201-09737108d001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "9 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "counting-10",
+      "imageUrl": "https://images.unsplash.com/photo-1759335858774-efa2e81e466c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwbW9uc3RlcnxlbnwwfHx8fDE3Njc1MzAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "10 cartoon monsters",
+      "imageHint": "cartoon monster"
+    },
+    {
+      "id": "fruit-banana",
+      "description": "A bunch of bananas",
+      "imageUrl": "https://images.unsplash.com/photo-1571771894824-229c34b445e9?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "banana"
+    },
+    {
+      "id": "fruit-orange",
+      "description": "An orange",
+      "imageUrl": "https://images.unsplash.com/photo-1547514701-42782101795e?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "orange"
+    },
+    {
+      "id": "fruit-strawberry",
+      "description": "A strawberry",
+      "imageUrl": "https://images.unsplash.com/photo-1587393855524-087f83d95bc9?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "strawberry"
+    },
+    {
+      "id": "fruit-grapes",
+      "description": "A bunch of grapes",
+      "imageUrl": "https://images.unsplash.com/photo-1596399773823-745a8dc65ea9?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "grapes"
+    },
+    {
+      "id": "fruit-watermelon",
+      "description": "A slice of watermelon",
+      "imageUrl": "https://images.unsplash.com/photo-1588669018329-845236715474?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "watermelon"
+    },
+    {
+      "id": "fruit-pineapple",
+      "description": "A pineapple",
+      "imageUrl": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "pineapple"
+    },
+    {
+      "id": "fruit-mango",
+      "description": "A mango",
+      "imageUrl": "https://images.unsplash.com/photo-1605349684898-d1015e197d13?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "mango"
+    },
+    {
+      "id": "bird-parrot",
+      "description": "A colorful parrot",
+      "imageUrl": "https://images.unsplash.com/photo-1548542913-91122174696c?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "parrot"
+    },
+    {
+      "id": "bird-eagle",
+      "description": "A majestic eagle",
+      "imageUrl": "https://images.unsplash.com/photo-1543809072-a7d5b4a643d6?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "eagle"
+    },
+    {
+      "id": "bird-peacock",
+      "description": "A beautiful peacock",
+      "imageUrl": "https://images.unsplash.com/photo-1533475306460-54a764501a37?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "peacock"
+    },
+    {
+      "id": "bird-toucan",
+      "description": "A toucan with a large beak",
+      "imageUrl": "https://images.unsplash.com/photo-1544321859-9f7a7d457a2f?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "toucan"
+    },
+    {
+      "id": "bird-flamingo",
+      "description": "A pink flamingo",
+      "imageUrl": "https://images.unsplash.com/photo-1583307260579-5360980189c0?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "flamingo"
+    },
+    {
+      "id": "bird-hummingbird",
+      "description": "A small hummingbird",
+      "imageUrl": "https://images.unsplash.com/photo-1558661091-53609801899e?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "hummingbird"
+    },
+    {
+      "id": "veg-carrot",
+      "description": "A carrot",
+      "imageUrl": "https://images.unsplash.com/photo-1590868309235-e5275753b036?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "carrot"
+    },
+    {
+      "id": "veg-broccoli",
+      "description": "A head of broccoli",
+      "imageUrl": "https://images.unsplash.com/photo-1587351177733-a03b0a0194a3?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "broccoli"
+    },
+    {
+      "id": "veg-tomato",
+      "description": "A tomato",
+      "imageUrl": "https://images.unsplash.com/photo-1561155628-a3d2c8a2a537?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "tomato"
+    },
+    {
+      "id": "veg-potato",
+      "description": "A potato",
+      "imageUrl": "https://images.unsplash.com/photo-1590165482321-2a5c543ce4b8?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "potato"
+    },
+    {
+      "id": "veg-corn",
+      "description": "An ear of corn",
+      "imageUrl": "https://images.unsplash.com/photo-1551755163-dc5075d5069b?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "corn"
+    },
+    {
+      "id": "veg-lettuce",
+      "description": "A head of lettuce",
+      "imageUrl": "https://images.unsplash.com/photo-1556910110-a5a63dfd9904?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "lettuce"
+    },
+    {
+      "id": "vehicle-car",
+      "description": "A car",
+      "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "car"
+    },
+    {
+      "id": "vehicle-bus",
+      "description": "A bus",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "bus"
+    },
+    {
+      "id": "vehicle-airplane",
+      "description": "An airplane",
+      "imageUrl": "https://images.unsplash.com/photo-1569074187119-c87815b476da?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "airplane"
+    },
+    {
+      "id": "vehicle-train",
+      "description": "A train",
+      "imageUrl": "https://images.unsplash.com/photo-1496024840928-4c017adb2137?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "train"
+    },
+    {
+      "id": "vehicle-boat",
+      "description": "A boat",
+      "imageUrl": "https://images.unsplash.com/photo-1524316823330-4139da737b55?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "boat"
+    },
+    {
+      "id": "vehicle-helicopter",
+      "description": "A helicopter",
+      "imageUrl": "https://images.unsplash.com/photo-1558273891-453982444585?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "imageHint": "helicopter"
+    },
+    {
+      "id": "shape-circle",
+      "description": "A cartoon circle",
+      "imageUrl": "https://images.unsplash.com/photo-1632516643720-e7f5d7d6ecc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaXJjbGV8ZW58MHx8fHwxNzY3NjI2OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "circle"
+    },
+    {
+      "id": "shape-square",
+      "description": "A cartoon square",
+      "imageUrl": "https://images.unsplash.com/photo-1573538447152-e6fe80357e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcXVhcmV8ZW58MHx8fHwxNzY3NjI2OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "square"
+    },
+    {
+      "id": "shape-triangle",
+      "description": "A cartoon triangle",
+      "imageUrl": "https://images.unsplash.com/photo-1587352925944-c08ff08cbb2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0cmlhbmdsZXxlbnwwfHx8fDE3Njc2MjY5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "triangle"
+    },
+    {
+      "id": "shape-star",
+      "description": "A cartoon star",
+      "imageUrl": "https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdGFyfGVufDB8fHx8MTc2NzYyNjkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "star"
+    },
+    {
+      "id": "shape-heart",
+      "description": "A cartoon heart",
+      "imageUrl": "https://images.unsplash.com/photo-1567974775951-4a1759f26045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoZWFydHxlbnwwfHx8fDE3Njc2MjY5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heart"
+    },
+    {
+      "id": "shape-rectangle",
+      "description": "A cartoon rectangle",
+      "imageUrl": "https://images.unsplash.com/photo-1587058101908-d72ee23a3044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWN0YW5nbGV8ZW58MHx8fHwxNzY3NjI2OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rectangle"
+    },
+    {
+      "id": "color-red",
+      "description": "The color red",
+      "imageUrl": "",
+      "imageHint": "red"
+    },
+    {
+      "id": "color-blue",
+      "description": "The color blue",
+      "imageUrl": "",
+      "imageHint": "blue"
+    },
+    {
+      "id": "color-green",
+      "description": "The color green",
+      "imageUrl": "",
+      "imageHint": "green"
+    },
+    {
+      "id": "color-yellow",
+      "description": "The color yellow",
+      "imageUrl": "",
+      "imageHint": "yellow"
+    },
+    {
+      "id": "color-purple",
+      "description": "The color purple",
+      "imageUrl": "",
+      "imageHint": "purple"
+    },
+    {
+      "id": "color-orange",
+      "description": "The color orange",
+      "imageUrl": "",
+      "imageHint": "orange"
+    },
+    {
+      "id": "shadow-tree",
+      "description": "A tree",
+      "imageUrl": "https://images.unsplash.com/photo-1530968461-1599370195b4?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "tree"
+    },
+    {
+      "id": "number-1",
+      "description": "Number 1",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number one"
+    },
+    {
+      "id": "number-2",
+      "description": "Number 2",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number two"
+    },
+    {
+      "id": "number-3",
+      "description": "Number 3",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number three"
+    },
+    {
+      "id": "number-4",
+      "description": "Number 4",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number four"
+    },
+    {
+      "id": "number-5",
+      "description": "Number 5",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number five"
+    },
+    {
+      "id": "number-6",
+      "description": "Number 6",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number six"
+    },
+    {
+      "id": "number-7",
+      "description": "Number 7",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number seven"
+    },
+    {
+      "id": "number-8",
+      "description": "Number 8",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number eight"
+    },
+    {
+      "id": "number-9",
+      "description": "Number 9",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number nine"
+    },
+    {
+      "id": "number-10",
+      "description": "Number 10",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number ten"
+    },
+    {
+      "id": "number-11",
+      "description": "Number 11",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number eleven"
+    },
+    {
+      "id": "number-12",
+      "description": "Number 12",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number twelve"
+    },
+    {
+      "id": "number-13",
+      "description": "Number 13",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number thirteen"
+    },
+    {
+      "id": "number-14",
+      "description": "Number 14",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number fourteen"
+    },
+    {
+      "id": "number-15",
+      "description": "Number 15",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number fifteen"
+    },
+    {
+      "id": "number-16",
+      "description": "Number 16",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number sixteen"
+    },
+    {
+      "id": "number-17",
+      "description": "Number 17",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number seventeen"
+    },
+    {
+      "id": "number-18",
+      "description": "Number 18",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number eighteen"
+    },
+    {
+      "id": "number-19",
+      "description": "Number 19",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number nineteen"
+    },
+    {
+      "id": "number-20",
+      "description": "Number 20",
+      "imageUrl": "https://images.unsplash.com/photo-1533224168434-d4f1958b4d8d?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "number twenty"
+    },
+    {
+      "id": "story-bear-1",
+      "description": "A little bear following a blue butterfly in a forest",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-bear-1.png",
+      "imageHint": "bear butterfly"
+    },
+    {
+      "id": "story-bear-2",
+      "description": "A little bear looking lost in a field of flowers",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-bear-2.png",
+      "imageHint": "bear flowers"
+    },
+    {
+      "id": "story-bear-3",
+      "description": "An owl on a branch talking to a little bear",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-bear-3.png",
+      "imageHint": "owl bear"
+    },
+    {
+      "id": "story-fox-1",
+      "description": "A cartoon fox looking for socks in his messy room",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-1.png",
+      "imageHint": "fox socks"
+    },
+    {
+      "id": "story-fox-2",
+      "description": "A cartoon fox looking in a cookie jar",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-2.png",
+      "imageHint": "fox cookie"
+    },
+    {
+      "id": "story-fox-3",
+      "description": "A squirrel wearing socks on his ears talking to a fox",
+      "imageUrl": "https://storage.googleapis.com/maker-studio-5f28a.appspot.com/assets/preloaded/story-fox-3.png",
+      "imageHint": "squirrel fox"
+    }
+  ]
+}
